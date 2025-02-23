@@ -1,3 +1,5 @@
+# Introduction
+Welcome here^^ Check out my new artworks [here](https://ldaelo.github.io/ascii-arts)
 
 ## License  
 [![Creative Commons License](https://ldaelo.github.io/ascii-arts/by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
