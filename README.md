@@ -3,7 +3,7 @@ I don't know what to write here. Just visit the [website version](https://ldaelo
 
 ## Support this project
 PayPal: [paelom](https://www.paypal.me/paelom)  
-GCash: 09076598998
+GCash: 09076598998 (Paelo Moldes)
 
 ## Contact me
 Phone: +63 907 659 8998  
