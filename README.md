@@ -1,8 +1,13 @@
 # Introduction
-I don't know what to write here. Just visit the [website](https://ldaelo.github.io/ascii-arts). I post ASCII artworks there. I hope you'll like them. Enjoy!
+I don't know what to write here. Just visit the [website version](https://ldaelo.github.io/ascii-arts) of this repository. I post ASCII artworks there. I hope you'll like them. Enjoy!
 
-* Follow me on TikTok: [@aelo.1](https://tiktok.com/@aelo.1)
-* My email: [paelo@tuta.io](mailto:paelo@tuta.io)
+## Support this project
+PayPal: [paelom](https://www.paypal.me/paelom)
+GCash: 09076598998
+
+## Contact me
+Phone: +63 907 659 8998
+Email: [paelo@tuta.io](mailto:paelo@tuta.io)
 
 ## License  
 [![Creative Commons License](https://ldaelo.github.io/ascii-arts/by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
