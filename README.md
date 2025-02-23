@@ -1,6 +1,7 @@
 ### Avril Lavigne
 [![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-1.jpg)](https://ldaelo.github.io/ascii-art/Avril%20Lavigne-20250224020035.html)
-There’s something about her—something more than looks, something that pulls you in and won’t let go.  
+
+
 
 ![Donate](https://ldaelo.github.io/ascii-art/donate.gif)
 
