@@ -2,11 +2,11 @@
 I don't know what to write here. Just visit the [website version](https://ldaelo.github.io/ascii-arts) of this repository. I post ASCII artworks there. I hope you'll like them. Enjoy!
 
 ## Support this project
-PayPal: [paelom](https://www.paypal.me/paelom)
+PayPal: [paelom](https://www.paypal.me/paelom)  
 GCash: 09076598998
 
 ## Contact me
-Phone: +63 907 659 8998
+Phone: +63 907 659 8998  
 Email: [paelo@tuta.io](mailto:paelo@tuta.io)
 
 ## License  
