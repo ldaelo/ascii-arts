@@ -1,5 +1,5 @@
 > [!NOTE]
-> Disclaimer: None of my ASCII arts was made with AI.
+> Disclaimer: None of my ASCII arts was made with AI.  
 > License: [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
 
 ## Lana Del Rey
