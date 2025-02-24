@@ -3,23 +3,18 @@
 
 > Disclaimer: None of my ASCII arts was made with AI.
 
-## Lana Del Rey
-> *Tap on image to view*
+## Lana Del Rey  
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-2.jpg)](https://ldaelo.github.io/ascii-art/Lana%20Del%20Rey-20250224121718.html)  
+> *Tap on image to view*  
 
-[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-2.jpg)](https://ldaelo.github.io/ascii-art/Lana%20Del%20Rey-20250224121718.html)
-
-## Avril Lavigne
-> *Tap on image to view*
-
-[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-1.jpg)](https://ldaelo.github.io/ascii-art/Avril%20Lavigne-20250224020035.html)
-
-
+## Avril Lavigne  
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-1.jpg)](https://ldaelo.github.io/ascii-art/Avril%20Lavigne-20250224020035.html)  
+> *Tap on image to view*  
   
-![Donate](https://ldaelo.github.io/ascii-art/donate.gif)
-
+![Donate](https://ldaelo.github.io/ascii-art/donate.gif)  
 PayPal: [paelom](https://www.paypal.me/paelom)  
-GCash: 09076598998 (Paelo Moldes)
+GCash: 09076598998 (Paelo Moldes)  
 
-## Contact me
+## Contact me  
 Phone: \+63 907 659 8998  
-Email: [paelo@tuta.io](mailto:paelo@tuta.io)
+Email: [paelo@tuta.io](mailto:paelo@tuta.io)  
