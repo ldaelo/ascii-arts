@@ -1,5 +1,6 @@
 > [!WARNING]
 > All ASCII artworks in this repository are licensed under the **[CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)**.
+
 > [!NOTE]
 > None of my ASCII arts was made with AI.
 
