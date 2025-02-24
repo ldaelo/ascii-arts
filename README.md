@@ -1,8 +1,7 @@
-> [!NOTE]
-> None of my ASCII arts was made with AI.
-
 > [!WARNING]
 > All ASCII artworks in this repository are licensed under the **[CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)**.
+> [!NOTE]
+> None of my ASCII arts was made with AI.
 
 ## Lana Del Rey
 *Tap on image to view*
@@ -27,7 +26,4 @@ Email: [paelo@tuta.io](mailto:paelo@tuta.io)
 > I can make you an ASCII art for any fee.  
 
 ## License  
-[![Creative Commons License](https://ldaelo.github.io/ascii-art/by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)  
-
-
-*All ASCII artworks in this repository are licensed under the **[CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)**.*
+[![Creative Commons License](https://ldaelo.github.io/ascii-art/by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
