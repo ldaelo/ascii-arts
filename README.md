@@ -16,4 +16,4 @@ PayPal: [paelom](https://www.paypal.me/paelom)
 GCash: `09076598998` (Paelo Moldes)  
 
 ## Contact me  
-`\+63 907 659 8998` / [paelo@tuta.io](mailto:paelo@tuta.io)  
+`+63 907 659 8998` / [paelo@tuta.io](mailto:paelo@tuta.io)  
