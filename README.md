@@ -11,6 +11,10 @@
 [![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-1.jpg)](https://ldaelo.github.io/ascii-art/Avril%20Lavigne-20250224020035.html)  
 > *Tap on image to view*  
 
+## XXXTentacion  
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-3.jpeg)](https://ldaelo.github.io/ascii-art/XXXTentacion-20250224191946.html)  
+> *Tap on image to view*  
+
 ![Donate](https://ldaelo.github.io/ascii-art/donate.gif)  
 PayPal: [paelom](https://www.paypal.me/paelom)  
 GCash: `09076598998` (Paelo Moldes)  
