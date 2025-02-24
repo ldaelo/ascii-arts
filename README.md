@@ -12,7 +12,7 @@
 > *Tap on image to view*  
 
 ## Christian Yelich  
-[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-2.jpeg)](https://ldaelo.github.io/ascii-art/Christian%20Yelich-20250224162915.html)  
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-3.jpeg)](https://ldaelo.github.io/ascii-art/Christian%20Yelich-20250224162915.html)  
 > *Tap on image to view*  
 
 ![Donate](https://ldaelo.github.io/ascii-art/donate.gif)  
