@@ -1,6 +1,8 @@
 > [!NOTE]
-> Disclaimer: None of my ASCII arts was made with AI.  
-> License: [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
+> None of my ASCII arts was made with AI.
+
+> [!WARNING]
+> All ASCII artworks in this repository are licensed under the **[CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)**.
 
 ## Lana Del Rey
 *Tap on image to view*
