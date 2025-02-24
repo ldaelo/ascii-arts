@@ -1,5 +1,5 @@
 ## Lana Del Rey
-[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-2.jpg)](https://ldaelo.github.io/ascii-art/Lana%20Del%20Rey-20250224032152.html)
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-2.jpg)](https://ldaelo.github.io/ascii-art/Lana%20Del%20Rey-20250224121718.html)
 
 ## Avril Lavigne
 [![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-1.jpg)](https://ldaelo.github.io/ascii-art/Avril%20Lavigne-20250224020035.html)
