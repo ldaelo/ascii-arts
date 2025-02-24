@@ -1,3 +1,6 @@
+> [!NOTE]
+> None of my ASCII arts was made with AI.
+
 ## Lana Del Rey
 *Click image to view*
 [![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-2.jpg)](https://ldaelo.github.io/ascii-art/Lana%20Del%20Rey-20250224121718.html)
@@ -7,9 +10,7 @@
 [![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-1.jpg)](https://ldaelo.github.io/ascii-art/Avril%20Lavigne-20250224020035.html)
 
 
-> [!NOTE]
-> None of my ASCII arts was made with AI.  
-
+  
 ![Donate](https://ldaelo.github.io/ascii-art/donate.gif)
 
 PayPal: [paelom](https://www.paypal.me/paelom)  
