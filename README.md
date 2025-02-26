@@ -4,15 +4,15 @@
 > Disclaimer: None of my ASCII arts was made with AI.
 
 ## Lana Del Rey  
-[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-2.jpg)](https://ldaelo.github.io/ascii-art/Lana%20Del%20Rey-20250224121718.html)  
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/Lana Del Rey-Zpmn.html.jpeg)](https://ldaelo.github.io/ascii-art/Lana Del Rey-Zpmn.html)  
 > *Tap on image to view*  
 
 ## Avril Lavigne  
-[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-1.jpg)](https://ldaelo.github.io/ascii-art/Avril%20Lavigne-20250224020035.html)  
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/Avril Lavigne-fK2O.html.jpeg)](https://ldaelo.github.io/ascii-art/Avril Lavigne-fK2O.html)  
 > *Tap on image to view*  
 
-## XXXTentacion  
-[![ascii art](https://ldaelo.github.io/ascii-art/assets/screenshot-3.jpeg)](https://ldaelo.github.io/ascii-art/XXXTentacion-20250224191946.html)  
+## Christian Yelich  
+[![ascii art](https://ldaelo.github.io/ascii-art/assets/Christian Yelich-NH7P.html.jpeg)](https://ldaelo.github.io/ascii-art/Christian Yelich-NH7P.html)  
 > *Tap on image to view*  
 
 ![Donate](https://ldaelo.github.io/ascii-art/donate.gif)  
