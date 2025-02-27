@@ -1,4 +1,4 @@
-[previous](x) · [next](x)  
+[previous](x) | [next](x)  
 
 # Sizes  
 [**Standard**](x)  
