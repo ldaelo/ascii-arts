@@ -1,3 +1,5 @@
+\[[Back](x)\] \[[\previous](x)\] \[[next](x)\]  
+
 # Sizes  
 [**Standard**](x)  
 > *download [plaintext](x), [image](x)*  
