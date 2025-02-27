@@ -1,4 +1,4 @@
-\[[Back](x)\] \[[\previous](x)\] \[[next](x)\]  
+\[[Back](x)\] \[[previous](x)\] \[[next](x)\]  
 
 # Sizes  
 [**Standard**](x)  
