@@ -1,5 +1,6 @@
 cd /storage/emulated/0/ascii-art/
-git pull origin main
+git fetch origin
+git merge origin/main || git merge --abort
 git status
 git add .
 git commit -m "Updated via Termux"
