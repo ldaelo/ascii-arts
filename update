@@ -1,0 +1,6 @@
+cd /storage/emulated/0/ascii-art/
+git status
+git add .
+git commit -m "Updated via Termux"
+git push origin main
+git pull origin main
